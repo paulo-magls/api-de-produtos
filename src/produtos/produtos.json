@@ -1,0 +1,41 @@
+[
+
+    {
+      "id": "1",
+      "nome": "Processador Intel Core i5 10400",
+      "img": "https://img.terabyteshop.com.br/archive/4157291290/processador-intel-core-i5-10gen-04.png",
+      "descricao": "Tecnologia Hyper-Threading Intel® (Tecnologia Intel® HT) oferece dois segmentos de processamento por núcleo físico. Aplicativos altamente segmentados podem fazer trabalhos adicionais paralelamente, concluindo as tarefas mais rapidamente."
+    },
+    {
+      "id": "2",
+      "nome": "Nvidia GeForce RTX3060 12GB",
+      "img": "https://www.kabum.com.br/conteudo/descricao/164854/img/main-pic.png",
+      "descricao": "Tenha um desempenho para seu trabalho e gameplay com a Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 O12G V2 é equipada com uma memória de 12GB GDDR6, Velocidade de Memória de 15 Gbps, e Boost Clock de 1867 MHz em OC e de 1867 MHz no modo Jogo."
+    },
+    {
+      "id": "3",
+      "nome": "Gabinete Gamer RGB KMEX CG-01KB",
+      "img": "https://policompras.com/image/cache/catalog/Produtos/gab-gamer-a-500x500.PNG",
+      "descricao": "Especificações técnicas"
+    },
+    {
+      "id": "4",
+      "nome": "Fonte de Alimentação Corsair CX550",
+      "img": "https://ae01.alicdn.com/kf/Ub98a57c048e3401bbfeb80013a915603p/Fonte-de-alimenta-o-atx-corsair-cx550-550-w-80-bronze.jpg_Q90.jpg_.webp",
+      "descricao": "Especificações Técnicas:"
+    
+    },
+    {
+      "id": "5",
+      "nome": "Memoria Corsair Vengeance 8GB DDR4 2400MHZ Vermelha",
+      "img": "https://hotsite.pichau.com.br/descricao/Corsair/CMK16GX4M2A2400C16R/CMK16GX4M2A2400C16R1.png",
+      "descricao": "O formato DDR4 é otimizado para os sistemas DDR4 mais recentes e oferece freqüências mais altas, maior largura de banda e menor consumo de energia que os módulos DDR3. VENGEANCE Os módulos LPX DDR4 são testados quanto à compatibilidade nos sistemas DDR4 para um desempenho confiável e rápido." 
+    },
+    {
+      "id": "6",
+      "nome": "SSD SATA WD Green 480GB",
+      "img": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-green-ssd/gallery/240gb/wd-green-ssd-240gb-right.png.thumb.1280.1280.png",
+      "descricao": "Para desempenho rápido e confiabilidade, os SSDs WD Green aceleram a experiência de computação em seu PC desktop ou laptop."
+    }
+    
+    ]

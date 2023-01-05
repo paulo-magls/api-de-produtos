@@ -1,0 +1,22 @@
+{
+  "name": "api-de-produtos",
+  "version": "1.0.0",
+  "description": "Criação de uma API utilizando NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulo-magls/api-de-produtos.git"
+  },
+  "author": "paulo-magls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulo-magls/api-de-produtos/issues"
+  },
+  "homepage": "https://github.com/paulo-magls/api-de-produtos#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
